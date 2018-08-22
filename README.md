@@ -20,12 +20,12 @@
 	7. Установить в папку темы node modules через команду npm install
 
 Установленные плагины:
-	1. Developer
-	2. Debug Bar
-	3. Monster Widget
-	4. Regenerate Thumbnails
-	5. Theme Check
-	6. WordPress Importer
+	1. Developer 
+	2. Debug Bar 
+	3. Monster Widget 
+	4. Regenerate Thumbnails 
+	5. Theme Check 
+	6. WordPress Importer 
 	7. WooCommerce
 
 		+ Импортированный контент для отладки темы: Theme unit test.xml
